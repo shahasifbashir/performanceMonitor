@@ -1,0 +1,6 @@
+G:\projects\c# programs\performanceMonitor\performanceMonitor\bin\Debug\performanceMonitor.exe.config
+G:\projects\c# programs\performanceMonitor\performanceMonitor\bin\Debug\performanceMonitor.exe
+G:\projects\c# programs\performanceMonitor\performanceMonitor\bin\Debug\performanceMonitor.pdb
+G:\projects\c# programs\performanceMonitor\performanceMonitor\obj\Debug\performanceMonitor.csprojResolveAssemblyReference.cache
+G:\projects\c# programs\performanceMonitor\performanceMonitor\obj\Debug\performanceMonitor.exe
+G:\projects\c# programs\performanceMonitor\performanceMonitor\obj\Debug\performanceMonitor.pdb
